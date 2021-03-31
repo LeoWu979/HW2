@@ -19,5 +19,29 @@
 ### 7. Python analysis : <br>
 - Compile "FFT.py" with python command : sudo python3 FFT.py<br>
 - You will see two figure, the first is the waveform after RC filter, second is the frequency response of FFT.<br>
+### 8. Some results : 
 
+waveform for 100Hz<br>
 ![image](https://github.com/LeoWu979/HW2/blob/master/Screenshot%20from%202021-03-31%2002-48-20.png)
+<br>
+FFT of 100Hz data<br>
+![image](https://github.com/LeoWu979/HW2/blob/master/Screenshot%20from%202021-03-31%2002-51-10.png)
+<br>
+waveform for 200Hz<br>
+![image](https://github.com/LeoWu979/HW2/blob/master/Screenshot%20from%202021-03-31%2002-48-52.png)
+<br>
+FFT of 200Hz<br>
+![image](https://github.com/LeoWu979/HW2/blob/master/Screenshot%20from%202021-03-31%2002-49-55.png)
+<br>
+waveform for 400Hz<br>
+![image](https://github.com/LeoWu979/HW2/blob/master/Screenshot%20from%202021-03-31%2002-52-18.png)
+<br>
+FFT of 400Hz<br>
+![image](https://github.com/LeoWu979/HW2/blob/master/Screenshot%20from%202021-03-31%2002-52-44.png)
+<br>
+waveform for 500Hz<br>
+![image](https://github.com/LeoWu979/HW2/blob/master/Screenshot%20from%202021-03-31%2002-53-29.png)
+<br>
+FFT of 500Hz<br>
+![image](https://github.com/LeoWu979/HW2/blob/master/Screenshot%20from%202021-03-31%2002-54-19.png)
+
