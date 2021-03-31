@@ -19,3 +19,5 @@
 ### 7. Python analysis : <br>
 - Compile "FFT.py" with python command : sudo python3 FFT.py<br>
 - You will see two figure, the first is the waveform after RC filter, second is the frequency response of FFT.<br>
+
+![image](https://github.com/LeoWu979/HW2/edit/master/Screenshot from 2021-03-31 02-48-20.png)
